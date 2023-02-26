@@ -2,6 +2,8 @@
 
 The algorithm proposed by a paper: https://arxiv.org/abs/1610.02391
 
+<img src="pictures/mantis.png" width="200">
+
 In the project implemented recognition of a picture of a mantis by three models:
 - VGG16
 - ResNet50
